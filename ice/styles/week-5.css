@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header {
+    background-image: url("w05_circles.jpg");
+    height: 60%;
+}
+
+main {
+    background-color: #737373;
+    height: 40%;
+}
+
+main img {
+    border-color: #4444
+}
