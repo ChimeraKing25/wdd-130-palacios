@@ -91,7 +91,11 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .hero-msg, .button-box {
+  .button-box {
+    text-align: center;
+  }
+
+  #hero-msg h1, #hero-msg h4 {
     text-align: center;
   }
   
