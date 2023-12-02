@@ -95,6 +95,17 @@ body {
     text-align: center;
   }
 
+  .book, .join {
+    color: black;
+    font-size: 15px;
+    padding: 22px;
+  }
+
+  .book:hover, .join:hover {
+    background-color: #FF6347;
+    color: black;
+  }
+
   #hero-msg h1, #hero-msg h4 {
     text-align: center;
   }
